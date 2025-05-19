@@ -1,8 +1,7 @@
 # A3-Faculdade-ADS
-codigos feitos para o projeto A3
-
+Codigos feitos para o projeto A3
+# Aluno
 Guilherme Prado de Oliveira
-
 RA: 1012510113
-
+# Professores 
 professores: Hissamu Shirado e Thome Lucas
